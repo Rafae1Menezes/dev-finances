@@ -2,7 +2,7 @@
 **Exercício da Maratona Dicover - Edição 01 - Rocketseat**
 
 ## :earth_americas: Demo Online: 
-[dev-finance](https://github.com/Rafae1Menezes)
+Acesse: [dev-finance](https://github.com/Rafae1Menezes)
 
 ## :memo: Objetivo: 
 Construir um mini sistema financeiro com fluxo de caixa.
