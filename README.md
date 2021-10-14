@@ -1,10 +1,10 @@
 # dev-finances
 **Exercício da Maratona Dicover - Edição 01 - Rocketseat**
 
-## Demo Online: 
+## :earth_americas: Demo Online: 
 [dev-finance](https://github.com/Rafae1Menezes)
 
-## Objetivo: 
+## :memo: Objetivo: 
 Construir um mini sistema financeiro com fluxo de caixa.
 
 ## :desktop_computer: Tecnologias Usadas:
@@ -16,4 +16,6 @@ Construir um mini sistema financeiro com fluxo de caixa.
 
 Abrir aquivo `index.html` no seu navegador
 
+
+## :camera: Screenshot:
 ![screenshot](./assets/screenshot.jpg) *Dashboard*
