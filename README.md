@@ -1,5 +1,5 @@
 # dev-finances
- Exercício da Maratona Dicover - Edição 01 - Rocketseat
+**Exercício da Maratona Dicover - Edição 01 - Rocketseat**
 
 **Demo Online:** # dev-finances
  Exercício da Maratona Dicover - Edição 01 - Rocketseat
